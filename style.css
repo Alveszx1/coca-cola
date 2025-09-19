@@ -61,3 +61,11 @@ main{
     filter: drop-shadow(0px 200px 20px rgba(0, 0, 0, 0.598));
 
 }
+
+footer{
+    height: 100px;
+    display: flex;
+    justify-content:flex-end ;
+    align-items: flex-start;
+    margin-right: 75px;
+}
